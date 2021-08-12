@@ -1,5 +1,5 @@
-# node-mongo-signup-verification-api
-
-NodeJS + MongoDB - API with Email Sign Up, Verification, Authentication & Forgot Password
-
-For documentation and instructions see https://jasonwatmore.com/post/2020/05/13/node-mongo-api-with-email-sign-up-verification-authentication-forgot-password
+# CRVS BACKEND 
+This backend is developed with nodejs and mongod! for ther front end of CRVS which is available on  https://github.com/Esrong/client.git
+To run you need to have node enviroment! then install dependance by using " npm i " under the folder!
+# HELP
++251911466024 
