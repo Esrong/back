@@ -1,0 +1,13 @@
+﻿{
+    "connectionString":"mongodb+srv://crvs:ABrmjg1M95mxWW3j@cluster0.609uw.mongodb.net/crvs?retryWrites=true&w=majority",
+    "secret": "crvs",
+    "emailFrom": "info@node-mongo-signup-verification-api.com",
+    "smtpOptions": {
+        "host": "smtp.gmail.com",
+        "port": 587,
+        "auth": {
+            "user": "esrongirma46@gmail.com",
+            "pass": "057664@1202Eg"
+        }
+    }
+}
